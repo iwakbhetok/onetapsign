@@ -89,7 +89,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-100 mt-12 pt-8 flex flex-col sm:flex-row justify-between items-center">
           <p className="text-sm text-gray-500">
-            © {currentYear} OneTapSign. All rights reserved.
+            © {currentYear} OneTapSign parts of Jalin Hub - PT Jalin Hubungan Kita. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 sm:mt-0">
             <a
